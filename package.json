@@ -1,0 +1,42 @@
+{
+  "name": "react-rufio",
+  "version": "0.1.0",
+  "description": "Set of custom React hooks and other hook utilities",
+  "main": "build/index.js",
+  "scripts": {
+    "start": "webpack --watch",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abmirayo/react-rufio.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "useState",
+    "useEffect"
+  ],
+  "author": "abmirayo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abmirayo/react-rufio/issues"
+  },
+  "homepage": "https://github.com/abmirayo/react-rufio#readme",
+  "peerDependencies": {
+    "react": "^16.8.6"
+  },
+  "dependencies": {
+    "react": "^16.8.6",
+    "webpack": "^4.30.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.7.0",
+    "webpack-cli": "^3.0.4"
+  }
+}
