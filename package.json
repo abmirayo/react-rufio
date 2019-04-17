@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abmirayo/react-rufio.git"
+    "url": "git+https://github.com/silo-technologies/react-rufio.git"
   },
   "keywords": [
     "react",
@@ -17,12 +17,11 @@
     "useState",
     "useEffect"
   ],
-  "author": "abmirayo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/abmirayo/react-rufio/issues"
+    "url": "https://github.com/silo-technologies/react-rufio/issues"
   },
-  "homepage": "https://github.com/abmirayo/react-rufio#readme",
+  "homepage": "https://github.com/silo-technologies/react-rufio#readme",
   "peerDependencies": {
     "react": "^16.8.6"
   },
